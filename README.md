@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Qyyuuu/Qyyuuu/blob/main/Github%20Banner.jpeg" align="center" style="width: 250%" />
+<img src="https://github.com/Qyyuuu/Qyyuuu/blob/main/Github%20Banner.jpeg" align="center" style="width: 200%" />
 </div>
 
 
@@ -24,6 +24,13 @@ Let's go collaborate with me guys
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Qyyuuu&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+
+### Spotify
+<p align="center">
+  <a href="https://spotify-github-profile.Qyyuu.com/api/view?uid=31k5otakjrbfn5v445gaevertbtm&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k5otakjrbfn5v445gaevertbtm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
+  </a>
+</p>
 
 
 <div align="center">
