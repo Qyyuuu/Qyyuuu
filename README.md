@@ -3,11 +3,6 @@
 </div>
 
 
-<div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWtyejhlaGM3cTBkb3ExaXN1M3o1NmY2anpicjJmMDdmYnJ1bnByaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ogwFGEHrVxusDbDjO/giphy.gif" align="center" style="width: 250%" />
-</div>
-
-
 # 💫 About Me:
 I'm Qyyuuu, a Informatics Student and Head of the Education Division at HIMTIKA<br><br>🎓I’m currently Informatics Student at [University of Singaperbangsa Karawang](https://www.unsika.ac.id)<br>🎯 I’m currently focus learning Front-End and UI/UX Design<br>👨‍💻 I'm currently Head of the Education Division at [HIMTIKA](himtika.cs.unsika.ac.id)<br>🎮My hobby play the game
 
@@ -30,4 +25,7 @@ Let's go collaborate with me guys
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Qyyuuu&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWtyejhlaGM3cTBkb3ExaXN1M3o1NmY2anpicjJmMDdmYnJ1bnByaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ogwFGEHrVxusDbDjO/giphy.gif" align="center" style="width: 250%" />
+</div>
