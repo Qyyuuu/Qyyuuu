@@ -27,11 +27,10 @@ Let's go collaborate with me guys
 
 ### Spotify
 <p align="center">
-  <a href="https://spotify-github-profile.Qyyuu.com/api/view?uid=31k5otakjrbfn5v445gaevertbtm&redirect=true">
+  <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k5otakjrbfn5v445gaevertbtm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
   </a>
 </p>
-
 
 <div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWtyejhlaGM3cTBkb3ExaXN1M3o1NmY2anpicjJmMDdmYnJ1bnByaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ogwFGEHrVxusDbDjO/giphy.gif" align="center" style="width: 250%" />
