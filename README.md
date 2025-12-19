@@ -1,4 +1,9 @@
 <div align="center">
+<img src="https://github.com/Qyyuuu/Qyyuuu/blob/main/Github%20Banner.jpeg" align="center" style="width: 250%" />
+</div>
+
+
+<div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWtyejhlaGM3cTBkb3ExaXN1M3o1NmY2anpicjJmMDdmYnJ1bnByaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ogwFGEHrVxusDbDjO/giphy.gif" align="center" style="width: 250%" />
 </div>
 
