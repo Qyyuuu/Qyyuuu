@@ -2,6 +2,7 @@
 <img src="https://github.com/Qyyuuu/Qyyuuu/blob/main/Github%20Banner.jpeg" align="center" style="width: 200%" />
 </div>
 
+<div align="center">
 
 # 💫 About Me:
 I'm Qyyuuu, a Informatics Student and Head of the Education Division at HIMTIKA<br><br>🎓I’m currently Informatics Student at [University of Singaperbangsa Karawang](https://www.unsika.ac.id)<br>🎯 I’m currently focus learning Front-End and UI/UX Design<br>👨‍💻 I'm currently Head of the Education Division at [HIMTIKA](himtika.cs.unsika.ac.id)<br>🎮My hobby play the game
@@ -22,15 +23,19 @@ Let's go collaborate with me guys
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Qyyuuu&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+
 
 ### Spotify
 <p align="center">
   <a href="https://github.com/Qyyuu/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k5otakjrbfn5v445gaevertbtm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k5otakjrbfn5v445gaevertbtm&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
   </a>
 </p>
+
+</div>
 
 <div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWtyejhlaGM3cTBkb3ExaXN1M3o1NmY2anpicjJmMDdmYnJ1bnByaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ogwFGEHrVxusDbDjO/giphy.gif" align="center" style="width: 250%" />
