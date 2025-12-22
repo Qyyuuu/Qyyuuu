@@ -5,7 +5,7 @@
 <div align="center">
 
 # 💫 About Me:
-I'm Qyyuuu, a Informatics Student and Head of the Education Division at HIMTIKA<br><br>🎓I’m currently Informatics Student at [University of Singaperbangsa Karawang](https://www.unsika.ac.id)<br>🎯 I’m currently focus learning Front-End and UI/UX Design<br>👨‍💻 I'm currently Head of the Education Division at [HIMTIKA](himtika.cs.unsika.ac.id)<br>🎮My hobby play the game
+I'm Qyyuuu, a Informatics Student and Head of the Education Division at HIMTIKA<br><br>🎓I’m currently Informatics Student at [University of Singaperbangsa Karawang](https://www.unsika.ac.id)<br>🎯 I’m currently focus learning Front-End and UI/UX Design<br>👨‍💻 I'm currently Head of the Education Division at [HIMTIKA](https://himtika.cs.unsika.ac.id/)<br>🎮My hobby play the game
 
 
 ## 🌐 Socials:
